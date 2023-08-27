@@ -1,4 +1,4 @@
-## Arquitetura padrão em cloud computing no Draw.io
+## Arquitetura padrão em AWS Cloud Computing feita no Draw.io
 
 
 
