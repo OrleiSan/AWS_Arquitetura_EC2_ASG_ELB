@@ -2,4 +2,4 @@
 
 
 
-<img align="" alt="Imagem_de_fundo" height="600" width="900" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="" alt="Imagem_de_fundo" height="600" width="1080" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
