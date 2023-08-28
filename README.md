@@ -2,5 +2,5 @@
 
 
 
-<img align="" alt="html5" src="https://viewer.diagrams.net/js/viewer-static.min.js">
+<img align="" alt="html5" href="https://viewer.diagrams.net/js/viewer-static.min.js">
 
